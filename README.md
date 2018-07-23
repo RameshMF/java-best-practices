@@ -1,34 +1,42 @@
-# java-best-practices
-A guide to java/j2ee best practices
-
-Top Best Practices Posts
-
-1. Guide to Best Practices to Java Collection Framework
-
-https://java-developers-guide.blogspot.com/2018/06/guide-to-best-practices-to-java.html
-
-2. Guide to Java Exception Handling Best Practices
-
-https://java-developers-guide.blogspot.com/2018/06/guide-to-java-exception-handling-best-practices.html
-
-3. Guide to String Best Practices in Java
-
-https://java-developers-guide.blogspot.com/2018/06/guide-to-string-best-practices-in-java.html
-
-4. JSP Best Practices
-
-https://java-developers-guide.blogspot.com/2018/06/jsp-best-practices.html
-
-5. Guide to JDBC Best Practices
-
-https://java-developers-guide.blogspot.com/2018/06/guide-to-jdbc-best-practices.html
-
-6. Java Synchronization Best Practices
-
-https://java-developers-guide.blogspot.com/2018/06/java-synchronization-best-practices.html
-
-7. Restful API Design Best Practices
-
-https://java-developers-guide.blogspot.com/2018/06/restful-api-design-best-practices.html
-
-
+<div dir="ltr" style="text-align: left;" trbidi="on">
+<h2 style="text-align: left;">
+Java Best Practices</h2>
+<div>
+<div style="text-align: left;">
+</div>
+<ul style="text-align: left;">
+<li><a href="http://www.javaguides.net/2018/06/guide-to-java-exception-handling-best-practices.html" target="_blank">Java Exception Handling Best Practices</a></li>
+</ul>
+<ul style="text-align: left;">
+<li><a href="http://www.javaguides.net/2018/06/java-synchronization-best-practices.html" target="_blank">Java Synchronization Best Practices</a></li>
+</ul>
+<ul style="text-align: left;">
+<li><a href="http://www.javaguides.net/2018/06/guide-to-string-best-practices-in-java.html" target="_blank">String Best Practices in Java</a></li>
+</ul>
+<ul style="text-align: left;">
+<li><a href="http://www.javaguides.net/2018/06/guide-to-best-practices-to-java.html" target="_blank">Best Practices to Java Collection Framework</a></li>
+</ul>
+<ul style="text-align: left;">
+<li><a href="http://www.javaguides.net/2018/07/secure-coding-standards-for-java-serialization7.html" target="_blank">Secure Coding Standards for Java Serialization</a></li>
+</ul>
+</div>
+<div>
+<h2>
+J2EE Best Practices</h2>
+</div>
+<div>
+<div>
+<div style="text-align: left;">
+</div>
+<ul style="text-align: left;">
+<li><a href="http://www.javaguides.net/2018/06/guide-to-jdbc-best-practices.html" target="_blank">JDBC Best Practices</a></li>
+</ul>
+<ul style="text-align: left;">
+<li><a href="http://www.javaguides.net/2018/06/jsp-best-practices.html" target="_blank">JSP Best Practices</a></li>
+</ul>
+<ul style="text-align: left;">
+<li><a href="http://www.javaguides.net/2018/06/restful-api-design-best-practices.html" target="_blank">Restful API Design Best Practices</a></li>
+</ul>
+</div>
+</div>
+</div>
